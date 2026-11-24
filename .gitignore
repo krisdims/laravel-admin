@@ -21,3 +21,6 @@ yarn-error.log
 /.nova
 /.vscode
 /.zed
+
+/routes_backup/
+/routes_backup_20261124/
